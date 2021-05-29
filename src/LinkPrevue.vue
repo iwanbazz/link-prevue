@@ -53,7 +53,7 @@ export default {
     },
     apiUrl: {
       type: String,
-      default: "https://link-prevue-api-v2.herokuapp.com/preview/",
+      default: "https://link.myrobin.tech",
     },
   },
   watch: {
